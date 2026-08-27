@@ -121,11 +121,11 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-![Semaphore Output](images/Screenshot at 2026-08-27 19-42-36.png)
+![Output Screenshot](images/Screenshot%20at%202026-08-27%2019-42-36.png)
 
 $ ipcs
 
-![Semaphore Status](<images/Screenshot at 2026-08-27 19-43-55.png>)
+![Output Screenshot](images/Screenshot%20at%202026-08-27%2019-43-55.png)
 
 
 
