@@ -120,14 +120,15 @@ int main() {
 
 
 ## OUTPUT
-$ ./sem.o 
-![Output Screenshot](images/Screenshot%20at%202026-08-27%2019-42-36.png)
 
-$ ipcs
+### `./sem.o`
 
-![Output Screenshot](images/Screenshot%20at%202026-08-27%2019-43-55.png)
+![Semaphore Program Output](images/Screenshot%20at%202026-08-27%2019-42-36.png)
 
+### `ipcs`
 
+![IPCS Output](images/Screenshot%20at%202026-08-27%2019-43-55.png)
 
-# RESULT:
+## RESULT
+
 The program is executed successfully.
